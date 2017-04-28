@@ -23,4 +23,5 @@
    - Beauter <http://beauter.outboxcraft.com/>
    - minicss <https://chalarangelo.github.io/mini.css/>
    - Milligram <https://milligram.github.io/>
-   
+- Imagenes y videos (popup)
+   - Bigpicture <https://henrygd.me/bigpicture/> 
