@@ -27,3 +27,17 @@
    - Bigpicture <https://henrygd.me/bigpicture/> 
 - Markdown
    - <https://markdown.es/sintaxis-markdown/>
+- Imagenes de fondo (Lo ideal es buscar imagenes de 1920px * 1080px)
+   - freeimage <http://es.freeimages.com/>
+   -StockPhotosforFree <https://www.stockphotosforfree.com/>
+   - Public Domain Archive <http://publicdomainarchive.com/>
+   - picjumbo <https://picjumbo.com/>
+   - unsplash <https://unsplash.com/>
+   - Magdeleine <https://magdeleine.co/>
+- Imagenes de fondo con patrones
+   - Subtle Patterns <https://www.toptal.com/designers/subtlepatterns/>
+   - Lea Verou <http://lea.verou.me/css3patterns/>
+   - Svgeneration <http://www.svgeneration.com/>
+   - Philiprogres <https://philiprogers.com/svgpatterns/>
+   - Heropatterns <http://www.heropatterns.com/>
+   
