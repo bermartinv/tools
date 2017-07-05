@@ -40,4 +40,5 @@
    - Svgeneration <http://www.svgeneration.com/>
    - Philiprogres <https://philiprogers.com/svgpatterns/>
    - Heropatterns <http://www.heropatterns.com/>
-   
+- Imagenes vectoriales
+   - http://logos-vector.com/
