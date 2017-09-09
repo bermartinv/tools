@@ -14,6 +14,7 @@
    - Fontawesome <http://fontawesome.io/icons/>
    - <https://nagoshiashumari.github.io/Rpg-Awesome/>
    - <https://www.flaticon.es/>
+   - <https://www.iconshock.com/>
 - Slideshows as PowerPoint
    - Slides.com <https://slides.com/>
    - Eagle <https://zulko.github.io/eaglejs-demo/#/>
