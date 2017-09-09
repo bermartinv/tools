@@ -1,4 +1,7 @@
 # Tools for frontend developer
+- Color
+   - w3schools <https://www.w3schools.com/colors/default.asp/>
+   - color-hex http://www.color-hex.com/
 - Fuentes
    - Free
       - <https://www.fontsquirrel.com/>
