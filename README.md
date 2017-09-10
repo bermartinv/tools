@@ -13,6 +13,8 @@
    - SyntaxHighlighter
       - Instalation <http://alexgorbatchev.com/SyntaxHighlighter/manual/installation.html>
       - Tipos de lenguaje <http://alexgorbatchev.com/SyntaxHighlighter/manual/brushes/>
+-Placeholder
+   - placeholder <https://placeholder.com/>
 - Icons
    - Fontawesome <http://fontawesome.io/icons/>
    - <https://nagoshiashumari.github.io/Rpg-Awesome/>
