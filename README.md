@@ -22,6 +22,7 @@
    - <https://nagoshiashumari.github.io/Rpg-Awesome/>
    - <https://www.flaticon.es/>
    - <https://www.iconshock.com/>
+   - <https://icomoon.io/>
 - Slideshows as PowerPoint
    - Slides.com <https://slides.com/>
    - Eagle <https://zulko.github.io/eaglejs-demo/#/>
