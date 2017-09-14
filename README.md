@@ -55,3 +55,4 @@
    - Heropatterns <http://www.heropatterns.com/>
 - Imagenes vectoriales
    - http://logos-vector.com/
+   - https://www.vecteezy.com/
