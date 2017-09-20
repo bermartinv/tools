@@ -56,3 +56,5 @@
 - Imagenes vectoriales
    - http://logos-vector.com/
    - https://www.vecteezy.com/
+- Funciones creadas con JavaScript nativo
+   - http://underscorejs.org/
