@@ -58,3 +58,7 @@
    - https://www.vecteezy.com/
 - Funciones creadas con JavaScript nativo
    - http://underscorejs.org/
+- CSS Grid Layout
+   - https://developers.google.com/web/updates/2017/01/css-grid
+   - https://gridbyexample.com/
+   - https://codepen.io/rachelandrew/
