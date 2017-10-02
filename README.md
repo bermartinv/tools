@@ -53,6 +53,8 @@
    - Svgeneration <http://www.svgeneration.com/>
    - Philiprogres <https://philiprogers.com/svgpatterns/>
    - Heropatterns <http://www.heropatterns.com/>
+   - imgur.com    https://imgur.com/
+   - lorempixel   http://lorempixel.com/
 - Imagenes vectoriales
    - http://logos-vector.com/
    - https://www.vecteezy.com/
