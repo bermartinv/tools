@@ -34,6 +34,7 @@
    - minicss <https://chalarangelo.github.io/mini.css/>
    - Milligram <https://milligram.github.io/>
    - Skeleton <http://getskeleton.com/>
+   - Animate css https://daneden.github.io/animate.css/
 - Autoprefixer
    - autoprefixer <http://autoprefixer.github.io/>
 - Imagenes y videos (popup)
