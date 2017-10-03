@@ -65,3 +65,6 @@
    - https://developers.google.com/web/updates/2017/01/css-grid
    - https://gridbyexample.com/
    - https://codepen.io/rachelandrew/
+- Demos JSON
+   - https://randomuser.me/
+   - https://jsonplaceholder.typicode.com/
