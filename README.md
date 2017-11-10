@@ -43,11 +43,14 @@
    - <https://markdown.es/sintaxis-markdown/>
 - Imagenes de fondo (Lo ideal es buscar imagenes de 1920px * 1080px)
    - freeimage <http://es.freeimages.com/>
-   -StockPhotosforFree <https://www.stockphotosforfree.com/>
+   - StockPhotosforFree <https://www.stockphotosforfree.com/>
    - Public Domain Archive <http://publicdomainarchive.com/>
    - picjumbo <https://picjumbo.com/>
    - unsplash <https://unsplash.com/>
    - Magdeleine <https://magdeleine.co/>
+   - Splitshire <https://www.splitshire.com/>
+   - Jaymantri <https://www.jaymantri.com/>
+   - Imcreator <www.imcreator.com/free/>
 - Imagenes de fondo con patrones
    - Subtle Patterns <https://www.toptal.com/designers/subtlepatterns/>
    - Lea Verou <http://lea.verou.me/css3patterns/>
