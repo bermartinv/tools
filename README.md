@@ -39,6 +39,7 @@
    - autoprefixer <http://autoprefixer.github.io/>
 - Imagenes y videos (popup)
    - Bigpicture <https://henrygd.me/bigpicture/> 
+   - **Pexels <https://www.pexels.com/> 
 - Markdown
    - <https://markdown.es/sintaxis-markdown/>
 - Imagenes de fondo (Lo ideal es buscar imagenes de 1920px * 1080px)
