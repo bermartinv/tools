@@ -8,6 +8,7 @@
    - Free
       - <https://www.fontsquirrel.com/>
       - <https://fonts.google.com/>
+      - <https://fontpair.co/>
    - Pay
       - <https://typekit.com/>
       - <https://www.fonts.com/>
