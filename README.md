@@ -4,6 +4,10 @@
 - Color
    - w3schools <https://www.w3schools.com/colors/default.asp/>
    - color-hex http://www.color-hex.com/
+   - color-hunt http://colorhunt.co/
+   - material design color https://material.io/color/#!/?view.left=0&view.right=0
+   - coolors https://coolors.co/8783d1-aa9aba-bfa4a4-d1abad-e3b9bc
+   - adobe color cc https://color.adobe.com/es/create/color-wheel/
 - Fuentes
    - Free
       - <https://www.fontsquirrel.com/>
