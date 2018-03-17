@@ -67,6 +67,7 @@
    - Heropatterns <http://www.heropatterns.com/>
    - imgur.com    https://imgur.com/
    - lorempixel   http://lorempixel.com/
+   - placeimg http://placeimg.com/
 - Imagenes vectoriales
    - http://logos-vector.com/
    - https://www.vecteezy.com/
