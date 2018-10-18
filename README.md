@@ -59,6 +59,9 @@
    - Splitshire <https://www.splitshire.com/>
    - Jaymantri <https://www.jaymantri.com/>
    - Imcreator <www.imcreator.com/free/>
+   - GoogleFotos https://images.google.com/
+   - Pixabay https://pixabay.com/es/photos/?image_type=photo
+   - MorgueFile https://morguefile.com/photos
 - Imagenes de fondo con patrones
    - Subtle Patterns <https://www.toptal.com/designers/subtlepatterns/>
    - Lea Verou <http://lea.verou.me/css3patterns/>
@@ -71,6 +74,11 @@
 - Imagenes vectoriales
    - http://logos-vector.com/
    - https://www.vecteezy.com/
+   - https://www.goodfreephotos.com/vector-images/
+   - https://publicdomainvectors.org/
+ - GIF'S
+   - https://giphy.com/create/gifmaker
+   - https://www.motionelements.com/es/free/gifs
 - Funciones creadas con JavaScript nativo
    - http://underscorejs.org/
 - CSS Grid Layout
