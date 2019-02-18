@@ -82,6 +82,8 @@
  - GIF'S
    - https://giphy.com/create/gifmaker
    - https://www.motionelements.com/es/free/gifs
+- Free videos
+   - https://coverr.co/
 - Funciones creadas con JavaScript nativo
    - http://underscorejs.org/
 - CSS Grid Layout
