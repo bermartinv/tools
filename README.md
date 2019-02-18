@@ -65,6 +65,17 @@
    - GoogleFotos https://images.google.com/
    - Pixabay https://pixabay.com/es/photos/?image_type=photo
    - MorgueFile https://morguefile.com/photos
+   - Photopin http://photopin.com/
+   - Bucketlistly https://www.bucketlistly.blog/photos
+   - Freerangestock https://freerangestock.com/
+   - Designerspics http://www.designerspics.com/
+   - Moveast http://moveast.me/
+   - Everystockphoto http://www.everystockphoto.com/
+   - Wellcomecollection https://wellcomecollection.org/works?query=paintings
+   - rgbstock http://www.rgbstock.com/
+   - imagebase http://imagebase.net/
+   - tookapic https://tookapic.com/photos
+   
 - Imagenes de fondo con patrones
    - Subtle Patterns <https://www.toptal.com/designers/subtlepatterns/>
    - Lea Verou <http://lea.verou.me/css3patterns/>
