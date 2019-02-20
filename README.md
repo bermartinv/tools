@@ -111,3 +111,5 @@
 
 - Cheat Sheet
    - emmet https://docs.emmet.io/cheat-sheet/
+- Lorem Ipsum
+   - https://loremipsum.io/
