@@ -3,6 +3,9 @@
    - Zeal <https://zealdocs.org/>
 - Color
    - w3schools <https://www.w3schools.com/colors/default.asp/>
+      color --> rgb --> hsl
+      <https://www.w3schools.com/colors/colors_picker.asp>
+      
    - color-hex http://www.color-hex.com/
    - color-hunt http://colorhunt.co/
    - material design color https://material.io/color/#!/?view.left=0&view.right=0
