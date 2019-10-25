@@ -112,6 +112,8 @@
    - https://chrome.google.com/webstore/detail/nocoffee/jjeeggmbnhckmgdhmgdckeigabjfbddl?hl=en-US
    - https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=es
 
+- Animation
+   - cubic-beizer: https://cubic-bezier.com/#.17,.67,.83,.67
 - Cheat Sheet
    - emmet https://docs.emmet.io/cheat-sheet/
 - Lorem Ipsum
