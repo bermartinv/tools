@@ -27,12 +27,12 @@
    - placeholder <https://placeholder.com/>
 - Icons
    - Fontawesome <http://fontawesome.io/icons/> --> para no descargarlo solo con enlazarlo en head : <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-   - <https://css-tricks.com/examples/IconFont/> API para cambiar tamaño
-   - <https://unicode-table.com/en/sets/> UNICODE-TABLE
+   - *<https://css-tricks.com/examples/IconFont/> API para cambiar tamaño
+   - *<https://unicode-table.com/en/sets/> UNICODE-TABLE
    - <https://nagoshiashumari.github.io/Rpg-Awesome/>
    - <https://www.flaticon.es/>
    - <https://www.iconshock.com/>
-   - <https://icomoon.io/>
+   - Iconos SVG *<https://icomoon.io/>
 - Slideshows as PowerPoint
    - Slides.com <https://slides.com/>
    - Eagle <https://zulko.github.io/eaglejs-demo/#/>
