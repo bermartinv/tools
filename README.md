@@ -117,6 +117,7 @@
 
 - Animation
    - cubic-beizer: https://cubic-bezier.com/#.17,.67,.83,.67
+   - ejemplos de funciones cubic-beizer: https://easings.net/
 - Cheat Sheet
    - emmet https://docs.emmet.io/cheat-sheet/
 - Lorem Ipsum
