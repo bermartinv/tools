@@ -96,6 +96,7 @@
    - https://publicdomainvectors.org/
 - Herramientas imagenes
    - Quitor fondo posterior fotos personas https://www.stickermule.com/es/trace
+   - Optimización de imagenes https://squoosh.app/
  - GIF'S
    - https://giphy.com/create/gifmaker
    - https://www.motionelements.com/es/free/gifs
