@@ -139,3 +139,6 @@
 
 - Media Query's
    - http://nmsdvid.com/snippets/
+
+- Tools
+   - editor https://ckeditor.com/
