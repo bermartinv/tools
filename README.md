@@ -143,3 +143,4 @@
 - Tools
    - editor https://ckeditor.com/
    - slides https://kenwheeler.github.io/slick/
+   . click big image https://cdnjs.com/libraries/ekko-lightbox
