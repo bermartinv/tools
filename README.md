@@ -144,3 +144,8 @@
    - editor https://ckeditor.com/
    - slides https://kenwheeler.github.io/slick/
    . click big image https://cdnjs.com/libraries/ekko-lightbox
+
+- clip-path
+   - https://bennettfeely.com/clippy/
+   - http://www.cssplant.com/clip-path-generator
+   - https://tympanus.net/codrops/css_reference/clip-path/
