@@ -33,6 +33,8 @@
    - <https://www.flaticon.es/>
    - <https://www.iconshock.com/>
    - Iconos SVG *<https://icomoon.io/>
+   - <https://tablee-icons.lo>
+   - <https://systemuicons.con>
 - Slideshows as PowerPoint
    - Slides.com <https://slides.com/>
    - Eagle <https://zulko.github.io/eaglejs-demo/#/>
